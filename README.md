@@ -3,7 +3,7 @@
 ![image](https://github.com/ferreira-marcos/gamelist/assets/63809327/e51405b0-f1e9-49dd-b996-176d660f1b9c)
 
 ## Overview
-This API was developed in spring boot to improve my knowledge to improve my knowledge of technology. It´s an game API, wich uses JPA to store the list of games, of game genre and a list that relates each game to its specific genre. For this, in addition to JPA, Hibernate is also used in orde to create the tables.
+This API was developed in spring boot to improve my knowledge of this technology. It´s a game API, which uses JPA to store the list of games, a list of game genre and a list that relates each game to its specific genre. For this, in addition to JPA, Hibernate is also used in order to create the tables.
 
 ## Prerequisites
 Before starting, you will need to have the following tools installed on your machine:
@@ -17,13 +17,13 @@ Before starting, you will need to have the following tools installed on your mac
 
 ```bash
     # clone the repository
-    $ git clone <https://github.com/ferreira-marcos/gamelist.git>
+    $ git clone https://github.com/ferreira-marcos/gamelist.git
 
     # access the directory
     $ cd game-list
 
     # run the Project
-    # mvn spring-boot:run
+    $ mvn spring-boot:run
 ```
 
 ## Technologies
